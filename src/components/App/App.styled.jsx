@@ -8,8 +8,8 @@ export const Container = styled.div`
   align-items: center;
   margin: 0 auto;
   padding: 20px;
-  color: #c949c0;
-  background-color: #f1e1e0;
+  color: #c849c0;
+  background-color: #f2e1e0;
 `;
 
 export const Title = styled.h1`
